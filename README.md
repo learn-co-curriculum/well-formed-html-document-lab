@@ -1,17 +1,17 @@
 # Well-Formed HTML Document Lab
 
-## Problem Statement
-
-How do we keep all of our HTML in the right places? By making sure we build the
-structure correctly from the very first line. Let's construct an entire HTML
-document to practice putting the necessary elements where they belong.
-
 ## Learning Goals
 
 - Add an appropriate `doctype` tag at the top of an HTML file
 - Enclose the HTML contents of a site inside `html` tags
 - Structure an HTML document with `head` and `body` tags
 - Add `title` tags to give the page a title that will show up in the browser tab
+
+## Problem Statement
+
+How do we keep all of our HTML in the right places? By making sure we build the
+structure correctly from the very first line. Let's construct an entire HTML
+document to practice putting the necessary elements where they belong.
 
 ## Add the HTML Tags
 
