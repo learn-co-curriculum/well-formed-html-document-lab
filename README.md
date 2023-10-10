@@ -7,7 +7,7 @@
 - Structure an HTML document with `head` and `body` tags
 - Add `title` tags to give the page a title that will show up in the browser tab
 
-## Problem Statement
+## Introduction
 
 How do we keep all of our HTML in the right places? By making sure we build the
 structure correctly from the very first line. Let's construct an entire HTML
